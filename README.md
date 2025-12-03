@@ -2,6 +2,10 @@
 
 ` make && make install `
 
+## USE
+
+` sstv-enc <png file> Robot-36 <wav file> `
+
 ## 许可证  
 
 本仓库在 MIT 许可证下发布。  
