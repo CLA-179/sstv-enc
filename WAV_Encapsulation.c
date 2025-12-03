@@ -21,7 +21,7 @@ License: MIT License
 #include "header.h"
 
 // 定义全局常量
-#define SAMPLE_RATE 44100                  // WAV文件采样率
+#define SAMPLE_RATE 48000                  // WAV文件采样率
 #define PI 3.14159265358979323846          // 圆周率
 
 // 获取外部变量
