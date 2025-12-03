@@ -1,0 +1,41 @@
+# 编译生成的可执行文件
+sstv-enc
+
+# 中间编译文件（如果未来使用 .o）
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# 依赖文件（若使用自动依赖）
+*.d
+
+# 备份文件
+*~
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# VSCode / CLion / IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 隐藏文件
+*.log
+
+# Makefile 生成的临时目录（若有）
+build/
+
+
+# wav file
+*.wav
